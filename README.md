@@ -24,7 +24,7 @@ I am passionate about **AI-driven automation**, **cutting-edge ML research**, an
 - 🌍 Cloud expertise in **AWS & Azure**
 - 👨‍💻 Check out my projects [here](https://github.com/anandvishwakarma)
 - 📫 Reach me at: [Gmail](mailto:anandvishwakarma21j@gmail.com)
-- 📝 Sometimes I write on [my blog](https://github.com/anandvishwakarma/blog)
+- 📝 Sometimes I write on [my blog](https://www.linkedin.com/in/anand-vishwakarma-32a13b293/)
 - ⚡ Fun fact: I love **coding & cricket** 🏏
 
 ## 🛠️ Tech Stack & Tools:
