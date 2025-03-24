@@ -1,5 +1,6 @@
 <img align="center" width="100%" alt="" src="https://github.com/anandvishwakarma/anandvishwakarma/blob/main/Green and Cream Brushstroke Assistant Professor LinkedIn Banner.png" />
 
+
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Anand Vishwakarma!](https://github.com/anandvishwakarma) <img src="https://komarev.com/ghpvc/?username=anandvishwakarma" height="20px">
 
 I am a **Data Scientist & Machine Learning Engineer** with expertise in **Deep Learning**, **Computer Vision**, **OCR**, and **Natural Language Processing**. My work involves building AI-driven solutions to solve real-world problems.
