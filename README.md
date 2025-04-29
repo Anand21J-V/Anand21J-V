@@ -18,7 +18,7 @@ I am passionate about **AI-driven automation**, **cutting-edge ML research**, an
 
 ## ⚡ Quick Facts:
 
-- 🏆 **SIH Finalist 2023** (AI-based IT Training System)
+- 🏆 **SIH Finalist** (AI-based IT Training System)
 - 🤖 Experienced in **Computer Vision, NLP, and OCR-based automation**
 - 📊 Skilled in **Power BI, Data Analytics, and HR Metrics**
 - 🌍 Cloud expertise in **AWS & Azure**
