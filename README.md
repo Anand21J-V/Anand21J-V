@@ -3,127 +3,212 @@
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Anand Vishwakarma!](https://github.com/anandvishwakarma) <img src="https://komarev.com/ghpvc/?username=anandvishwakarma" height="20px">
 
-I am a **Data Scientist & Machine Learning Engineer** with expertise in **Deep Learning**, **Computer Vision**, **OCR**, and **Natural Language Processing**. My work involves building AI-driven solutions to solve real-world problems.
+I am an **AI Engineer & Data Scientist** specializing in **Generative AI**, **Multi-Agent Systems**, **Large Language Models**, and **Deep Learning**. My work focuses on building intelligent, scalable AI solutions that solve complex real-world problems.
 
 Currently, I am working on:
-- **AI-powered document verification systems** 🏛️
-- **Deepfake detection using AI** 🎭
-- **Cloud deployment automation chatbot** ☁️🤖
-- **HR analytics dashboards using Power BI** 📊
-- **Generative AI and LLMs (Llama 3.3 via Ollama)** 🚀
+- **Multi-Agentic AI systems using LangGraph & CrewAI** 🤖
+- **LLM-powered financial advisory platforms** 💰
+- **RAG-based semantic search engines** 🔍
+- **Agentic AI workflows with LangChain** 🚀
+- **MLOps pipelines with Docker, MLFlow & DagsHub** 🔧
 
-I am passionate about **AI-driven automation**, **cutting-edge ML research**, and building scalable solutions. Feel free to reach out for collaboration or discussions!
+I am passionate about **AI agent engineering**, **prompt optimization**, **LLM evaluation**, and building production-ready AI systems. Feel free to reach out for collaboration or discussions!
 
-<p><a href="https://www.linkedin.com/in/anand-vishwakarma-32a13b293/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:anandvishwakarma21j@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
+<p>
+<a href="https://www.linkedin.com/in/anand-vishwakarma-32a13b293/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:anandvishwakarma21j@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://github.com/anandvishwakarma"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=25></a>
+<a href="https://leetcode.com/anandvishwakarma"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height=25></a>
+</p>
 
 ## ⚡ Quick Facts:
 
-- 🏆 **SIH Finalist** (AI-based IT Training System)
-- 🤖 Experienced in **Computer Vision, NLP, and OCR-based automation**
-- 📊 Skilled in **Power BI, Data Analytics, and HR Metrics**
-- 🌍 Cloud expertise in **AWS & Azure**
-- 👨‍💻 Check out my projects [here](https://github.com/anandvishwakarma)
-- 📫 Reach me at: [Gmail](mailto:anandvishwakarma21j@gmail.com)
-- 📝 Sometimes I write on [my blog](https://www.linkedin.com/in/anand-vishwakarma-32a13b293/)
+- 🏆 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+- 🥇 **SIH 2023 Finalist** | **GIET Innovation Hackathon X 4.0 Finalist** | **GeekForGeeks HackVyuva 2025 Finalist**
+- 🤖 AI Engineering Intern at **Inflera Technologies Pty Limited** (July-Sept 2025)
+- 💼 GenAI Consulting Intern at **BCG** (Mar-June 2025)
+- 🎓 B.Tech in Computer Science & Engineering @ **O.P. Jindal University** (CGPA: 9.38)
+- 👨‍💻 Check out my projects on [GitHub](https://github.com/anandvishwakarma)
+- 📫 Reach me at: [anandvishwakarma21j@gmail.com](mailto:anandvishwakarma21j@gmail.com)
 - ⚡ Fun fact: I love **coding & cricket** 🏏
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
 ## 🛠️ Tech Stack & Tools:
 
-**Programming & Scripting:**
-Python | SQL | Bash
+### **Programming & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Data Science & Analytics:**
-Pandas | NumPy | SciPy | Scikit-Learn | Power BI | Data Visualization | Exploratory Data Analysis | Data Analytics | Statistics | Calculus
+### **Generative AI & LLM Stack**
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graph&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-6C63FF?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 
-**Machine Learning & Deep Learning:**
-TensorFlow | Keras | Deep Learning | Machine Learning | Generative AI | Artificial Intelligence | Large Language Models (LLMs)
+### **Data Science & Machine Learning**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-**Natural Language Processing (NLP):**
-Natural Language Processing (NLP) | LangChain
+### **NLP & Computer Vision**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract-3E8FC7?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Computer Vision & OCR:**
-OpenCV | Tesseract OCR | PIL
+### **MLOps & Deployment**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DagsHub](https://img.shields.io/badge/DagsHub-2D7FF9?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI/CD-239120?style=for-the-badge)
 
-**Web Development & APIs:**
-Flask | Streamlit
+### **Web Frameworks & APIs**
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Version Control & Collaboration:**
-Git | GitHub
+### **Databases & Vector Stores**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![VectorDB](https://img.shields.io/badge/VectorDB-FF6B6B?style=for-the-badge)
 
-**Problem-Solving & Algorithms:**
-Problem-Solving | Data Structures & Algorithms
+### **Data Visualization & BI**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 
-**Database Management:**
-MySQL
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Tools & Platforms:**
-Power BI | Jupyter Notebook
+---
 
-**Languages & Communication:**
-English (Professional Proficiency) | Hindi (Professional Proficiency)
+## 💼 Professional Experience:
 
-## 🏆 GitHub Trophies:
+### **AI Engineering Intern** | Inflera Technologies Pty Limited
+*July 2025 - September 2025* | [Certificate](link)
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anand21J-V">
-</p>
+- Developed **AI-powered multi-agent systems** with LangGraph, including a FinOps Assistant, Schema-Agent, and BYOD Workflow for cost analysis, anomaly detection, and secure data ingestion
+- Engineered **scalable APIs** and Streamlit interfaces with token-based access, role management, SQL inspection, LangSmith integration, and feedback-driven debugging
+- Built agents for **visualization and automation**, including charts, breakdowns, and feature-flagged workflows
+- Specialized in **prompt engineering and LLM evaluation**, optimizing multi-agent outputs, NL2SQL conversions, and memory-driven context generation
+
+### **GenAI Consulting Intern** | BCG GenAI Job Simulation
+*March 2025 - June 2025* | [Certificate](link)
+
+- Completed a job simulation involving **AI-powered financial chatbot development** for BCG's GenAI Consulting team
+- Integrated and interpreted complex financial data from **10-K and 10-Q reports**, employing rule-based logic to create a chatbot that provides user-friendly financial insights
+- Gained hands-on experience in Python programming using libraries such as **pandas** for data manipulation
+
+---
+
+## 🚀 Featured Projects:
+
+### 1. **Multi-Agentic Financial Advisory System** | [GitHub](link)
+**Tech Stack:** Python | Flask | LangGraph | Groq (LLaMA-3.3) | Streamlit
+
+- Built a **LangGraph-based multi-agent system** that extracts user financial profiles, analyzes risk, and generates personalized investment strategies
+- Integrated **Groq's LLaMA-3.3 model** for dynamic allocation across SIPs, FDs, gold, and emergency funds, based on goals, age, income, and debt
+- Developed a **Flask API backend** with real-time financial simulations and fallback logic using external FD rate APIs
+
+### 2. **Agents Engineering Team** | [GitHub](link)
+**Tech Stack:** Python | CrewAI | Groq-LLM | LLaMA-3.3-70B | Mistral-7B | Gemini-2.0-Flash | Docker
+
+- Built an **autonomous multi-agent engineering team** simulating backend, frontend, and QA collaboration using CrewAI
+- Integrated **LLaMA-3.3-70B, Mistral-7B, and Gemini-2.0-Flash** as specialized agents for engineering, design, and testing workflows
+- Automated generation of structured deliverables like `design_doc.md`, `test_report.md`, and `final_report.md` within a **Dockerized setup**
+
+### 3. **AI-Powered Medical Insights Platform** | [GitHub](link)
+**Tech Stack:** Python | Streamlit | FAISS | HuggingFace Transformers | LangChain | Groq | PDFMiner
+
+- Developed a **semantic search engine** for clinical trial data using sentence embeddings and FAISS indexing
+- Built an interactive **Streamlit UI** allowing users to filter studies by title, condition, sponsor, and outcomes
+- Achieved **real-time retrieval** of top-10 relevant studies through vector similarity using MiniLM model
+
+### 4. **Closette AI Model** | [Project Link](https://shorturl.at/niCXr)
+**Tech Stack:** TensorFlow | Keras | CNN | Streamlit | Flask
+
+- Built and optimized a **Convolutional Neural Network (CNN)** for feature extraction and classification
+- Applied **data augmentation, normalization, and class weighting** to address class imbalance
+- Developed a **Streamlit-based front-end** and **Flask API** for real-time predictions
+
+### 5. **Image To Text Extraction** | [Project Link](https://shorturl.at/GAHif)
+**Tech Stack:** Tesseract OCR | OpenCV | PIL | Python
+
+- Implemented **Tesseract OCR** for accurate text extraction from images
+- Utilized **OpenCV & PIL** for image preprocessing to enhance OCR performance
+- Designed a pipeline to convert extracted text into **JSON format** for structured data storage
+
+### 6. **HR Analytics Dashboard** | [Project Link](https://shorturl.at/9k2Xp)
+**Tech Stack:** Power BI | DAX | Data Analytics
+
+- Analyzed **employee count, attrition rate**, and job role-wise turnover trends
+- Performed attrition analysis based on education, age, gender, salary, and years at the company
+- Designed **dynamic Power BI visualizations** and created **interactive reports with KPIs**
+
+---
+
+## 🏆 Achievements & Certifications:
+
+- 🥇 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+- 🏅 **Smart India Hackathon (SIH) 2023 Finalist**
+- 🏅 **GIET Innovation Hackathon X 4.0 Finalist (2025)**
+- 🏅 **GeekForGeeks HackVyuva 2025 Finalist**
+
+---
 
 ## 📊 GitHub Stats:
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anand21J-V&theme=white&&hide_border=true" width='48%' /> 
-    <img src="https://github-readme-stats-mauve-ten.vercel.app/api?username=Anand21J-V&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandvishwakarma&theme=white&hide_border=true" width='48%' /> 
+    <img src="https://github-readme-stats-mauve-ten.vercel.app/api?username=anandvishwakarma&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 </p>
 
-## 🚀 Featured Projects:
+## 🏆 GitHub Trophies:
 
-### Closette AI Model – DEEP LEARNING
-**Data Scientist** (June 2024 – July 2024)
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=anandvishwakarma&theme=flat&no-frame=true&margin-w=15&margin-h=15&column=7">
+</p>
 
-[Project Link](https://shorturl.at/niCXr)
+---
 
-- Built and optimized a Convolutional Neural Network (CNN) for feature extraction and classification.
-- Applied data augmentation, normalization, and class weighting to address class imbalance.
-- Developed a Streamlit-based front-end for seamless user interaction.
-- Created a Flask API to enable real-time predictions and model supervision.
-- Utilized TensorFlow for deep learning and Pandas & NumPy for data preprocessing.
+## 📈 Contribution Graph:
 
-### Image To Text Extraction – DEEP LEARNING
-**AI Engineer** (June 2024 – July 2024)
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandvishwakarma&theme=github-light&hide_border=true" width="100%">
+</p>
 
-[Project Link](https://shorturl.at/GAHif)
+---
 
-- Implemented Tesseract OCR for accurate text extraction from images.
-- Utilized OpenCV & PIL for image preprocessing to enhance OCR performance.
-- Designed a pipeline to convert extracted text into JSON format for structured data storage.
-- Employed Pickle for serializing JSON data to enable efficient retrieval and storage.
+## 🎓 Education:
 
-### Cloud Deployer Chatbot – LLM
-**AI Engineer** (Jan 2025)
+**Bachelor of Technology in Computer Science and Engineering**  
+O.P. Jindal University, Chhattisgarh, India  
+*July 2022 - Present* | **CGPA: 9.38**
 
-[Project Link](https://shorturl.at/vrCkv)
+---
 
-- Implemented Llama 3.3 (70B) via Ollama for natural language understanding and intelligent decision-making.
-- Built a Streamlit-based user interface, allowing seamless cloud-related queries and responses.
-- Integrated LangChain for enhanced context-aware recommendations.
-- Developed an interactive pipeline that analyzes deployment needs and suggests the best cloud solutions.
-- Improved chatbot response accuracy by fine-tuning query processing and response generation.
+## 📫 Let's Connect:
 
-### HR Analytics Dashboard – Data Analytics & B.I
-**Data Analyst & Power BI Developer** (Jan 2025)
+- 💼 LinkedIn: [Anand Vishwakarma](https://www.linkedin.com/in/anand-vishwakarma-32a13b293/)
+- 📧 Email: [anandvishwakarma21j@gmail.com](mailto:anandvishwakarma21j@gmail.com)
+- 💻 GitHub: [anandvishwakarma](https://github.com/anandvishwakarma)
+- 🧑‍💻 LeetCode: [Profile](https://leetcode.com/anandvishwakarma)
+- 📱 Phone: +91 7011472391
 
-[Project Link](https://shorturl.at/9k2Xp)
-
-- Analyzed employee count, attrition rate, and job role-wise turnover trends.
-- Performed attrition analysis based on education, age, gender, salary, and years at the company.
-- Designed dynamic Power BI visualizations to highlight workforce patterns and retention risks.
-- Utilized DAX calculations to create interactive reports and key performance indicators (KPIs).
-- Provided actionable insights to help organizations take proactive measures to reduce attrition.
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-
