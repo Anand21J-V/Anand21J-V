@@ -2,7 +2,7 @@
 
 <div align="center">
 
-#  AI Engineer | Building Real World Ai Solutions with LLM
+# | AI Engineer | Building Real World Ai Solutions with LLM |
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Anand+Vishwakarma;AI+Engineer+%7C+GenAI+Specialist;Multi-Agent+Systems+Architect+%F0%9F%A4%96;LLM+Engineer+%7C+Data+Scientist;Transforming+Data+into+Intelligence+%F0%9F%92%A1" alt="Typing SVG" />
 
