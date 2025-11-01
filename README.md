@@ -466,12 +466,27 @@ Business Impact:
 </div>
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=anandvishwakarma&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandvishwakarma&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandvishwakarma&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anandvishwakarma&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9" width="49%" />
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anand21J-V&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anand21J-V&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="100%" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand21J-V&theme=radical&hide_border=true&layout=compact&langs_count=10&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anand21J-V&theme=radical&utcOffset=5.5" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anand21J-V&theme=radical" width="98%" />
 
 </div>
 
@@ -481,12 +496,9 @@ Business Impact:
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=anandvishwakarma&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Anand21J-V&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
 
 </div>
-
----
-
 <div align="center">
 
 ## 🎓 Education
