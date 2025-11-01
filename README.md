@@ -460,11 +460,6 @@ Business Impact:
 <div align="center">
 
 ## 📊 GitHub Analytics & Data Science Activity
-
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="300">
-
-</div>
-
 <div align="center">
 
 <table>
