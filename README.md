@@ -2,162 +2,123 @@
 
 <div align="center">
 
-# AI Engineer | Building Real World Ai Solutions with LLM
+# AI Engineer | Building Intelligent Systems with LLMs & Multi-Agent Architectures
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Anand+Vishwakarma;AI+Engineer+%7C+GenAI+Specialist;Multi-Agent+Systems+Architect+%F0%9F%A4%96;LLM+Engineer+%7C+Data+Scientist;Transforming+Data+into+Intelligence+%F0%9F%92%A1" alt="Typing SVG" />
-
-<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Anand+Vishwakarma;AI+Engineer+%7C+GenAI+Specialist;Multi-Agent+Systems+Architect+%F0%9F%A4%96;LLM+Engineer+%7C+Data+Scientist;Transforming+Ideas+into+Intelligent+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-vishwakarma-32a13b293/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandvishwakarma21j@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anandvishwakarma)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anand21J-V)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/anandvishwakarma)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
-![Profile Views](https://komarev.com/ghpvc/?username=anandvishwakarma&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Anand21J-V&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-##  AI Engineer | Data Scientist | GenAI Specialist
+## 👨‍💻 About Me
 
 ```python
 class AIEngineer:
     def __init__(self):
         self.name = "Anand Vishwakarma"
         self.role = "AI Engineer & GenAI Specialist"
+        self.education = "B.Tech CSE @ O.P. Jindal University"
+        self.cgpa = "9.38/10.0"
         self.specialization = [
             "Multi-Agent AI Systems",
-            "Large Language Models (LLMs)",
-            "Deep Learning & Neural Networks",
+            "Large Language Models",
             "Natural Language Processing",
             "Computer Vision & OCR",
             "MLOps & Model Deployment"
         ]
         
-    def current_research(self):
+    def current_focus(self):
         return {
-            "agents": ["LangGraph Multi-Agent Systems", "CrewAI Orchestration"],
-            "llms": ["LLaMA 3.3", "GPT-4", "Gemini 2.0", "Mistral"],
-            "rag": ["Semantic Search with FAISS", "Vector Databases"],
-            "mlops": ["Docker Containerization", "CI/CD Pipelines", "MLFlow"],
+            "agent_frameworks": ["LangGraph", "CrewAI", "OpenAI Agents SDK", "Autogen"],
+            "llm_platforms": ["OpenAI API", "Groq API", "Gemini Pro"],
+            "rag_systems": ["LlamaIndex", "Vector Databases", "FAISS"],
+            "mlops": ["MLflow", "Docker", "DagsHub", "CI/CD"],
             "evaluation": ["DeepEval", "Confident AI", "LangSmith"]
         }
     
-    def expertise_domains(self):
+    def expertise(self):
         return {
-            "financial_ai": "Multi-agent advisory systems with dynamic portfolio allocation",
-            "medical_ai": "RAG-based clinical insights & semantic search",
-            "hr_analytics": "Predictive modeling for attrition & workforce optimization",
-            "computer_vision": "CNN-based classification & OCR systems",
-            "generative_ai": "Prompt engineering, fine-tuning, and agent orchestration"
+            "agentic_ai": "Multi-agent orchestration, planning, and autonomous workflows",
+            "generative_ai": "Prompt engineering, RAG, fine-tuning, and LLM integration",
+            "nlp": "Semantic search, ASR/TTS, text analysis, embeddings",
+            "computer_vision": "OCR, real-time scanning, image processing",
+            "data_science": "ML/DL, predictive analytics, statistical modeling"
         }
-    
-    def certifications(self):
-        return ["Oracle Cloud Infrastructure 2025 Certified GenAI Professional ✨"]
 
 ai_engineer = AIEngineer()
 ```
 
 <div align="center">
 
-### 🌟 Professional Snapshot
+### 🌟 Quick Stats
 
-| 🎓 Academic Excellence | 💼 Industry Experience | 🏆 Competition Success | 
-|-------------|--------------|----------------|
-| **9.38/10 CGPA** | **AI Engineering @ Inflera** | **4x Hackathon Finalist** | 
-| **B.Tech CSE** | **GenAI Consulting @ BCG** | **Oracle GenAI Certified** | 
+| 🎓 Academic Excellence | 💼 Industry Impact | 🏆 Recognition |
+|------------------------|-------------------|----------------|
+| **9.38/10 CGPA** | **AI Engineering @ Inflera** | **Oracle GenAI Certified** |
+| **B.Tech CSE** | **Multi-Agent Systems** | **4x Hackathon Finalist** |
 
 </div>
 
 ---
 
-<div align="center">
+## 💼 Professional Experience
 
-## 💼 Professional Journey in AI & Data Science
-
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400"> -->
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Inflera Technologies Pty Limited
-**AI Engineering Intern** | *July 2025 - Sept 2025*
+### 🚀 Inflera Technologies Pty Limited
+**AI Engineering Intern** | *July 2025 - September 2025* | [Certificate](#)
 
 ```yaml
-AI Innovation:
-  - Multi-Agent Systems with LangGraph
-  - FinOps Assistant & Schema-Agent
-  - NL2SQL Conversion Optimization
-  - Token-based API Architecture
-  - Prompt Engineering & LLM Evaluation
+Multi-Agent Systems Development:
+  - FinOps Assistant: Cost analysis and anomaly detection with LangGraph
+  - Schema-Agent: Intelligent database schema analysis and optimization
+  - BYOD Workflow: Secure data ingestion with token-based access control
+  
+Engineering Contributions:
+  - Scalable APIs with Flask/FastAPI and Streamlit interfaces
+  - Role management, SQL inspection, and LangSmith integration
+  - Token-based authentication and feature-flagged workflows
+  - Visualization agents for charts, breakdowns, and automation
+  
+AI/ML Expertise:
+  - Advanced prompt engineering and LLM evaluation
+  - Multi-agent output optimization and NL2SQL conversions
+  - Memory-driven context generation and feedback-driven debugging
   
 Tech Stack:
-  - LangGraph, LangSmith, Streamlit
-  - SQL Inspection & Role Management
-  - Memory-driven Context Generation
+  LangGraph | LangSmith | Streamlit | OpenAI API | Groq API
+  SQL | Vector Databases | Async Workflows | CI/CD
 ```
-
-</td>
-<td width="50%">
-
-### 💡 BCG GenAI Consulting
-**GenAI Consulting Intern** | *Mar 2025 - June 2025*
-
-<!-- <img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150"> -->
-
-```yaml
-Financial AI Solutions:
-  - AI-Powered Chatbot Development
-  - Financial Data Analysis (10-K, 10-Q)
-  - Rule-Based Logic Systems
-  - Natural Language Financial Insights
-  
-Tech Stack:
-  - Python, Pandas, NumPy
-  - Data Manipulation & Analysis
-  - Financial Document Processing
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
-<div align="center">
-
-## 🛠️ AI & Data Science Tech Arsenal
-
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400">
-
-</div>
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-### 🧠 Generative AI & Large Language Models
+### 🤖 Generative AI & Agentic Systems
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graph&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-6C63FF?style=for-the-badge&logo=ai&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Autogen](https://img.shields.io/badge/Autogen-000000?style=for-the-badge&logo=microsoft&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
-### 🤖 Deep Learning & Neural Networks
+### 🧠 Machine Learning & Deep Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 📊 Data Science & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
@@ -165,301 +126,179 @@ Tech Stack:
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🗣️ Natural Language Processing
+### 🗣️ NLP & Transformers
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=nltk&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Tesseract](https://img.shields.io/badge/Tesseract_OCR-3E8FC7?style=for-the-badge&logo=tesseract&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Sentence-BERT](https://img.shields.io/badge/Sentence--BERT-FFD21E?style=for-the-badge&logo=bert&logoColor=black)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+![gTTS](https://img.shields.io/badge/gTTS-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### 🔧 MLOps & Model Deployment
+### 🔧 MLOps & Development
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![DagsHub](https://img.shields.io/badge/DagsHub-2D7FF9?style=for-the-badge&logo=dagshub&logoColor=white)
 ![DeepEval](https://img.shields.io/badge/DeepEval-FF6B6B?style=for-the-badge&logo=deepeval&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-239120?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🌐 Development & APIs
+### 🌐 Backend & APIs
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🗄️ Databases & Vector Stores
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![VectorDB](https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
-
-### 📈 Business Intelligence
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
 
 </div>
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-## 🚀 AI & Data Science Projects Portfolio
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-
-</div>
-
-### 💰 Multi-Agentic Financial Advisory System
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](link)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq_LLaMA--3.3-F55036?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square)
+### 🤖 LLM Coding Agent Assistant
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square)
 
-<!-- <img align="right" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"> -->
-
-**Advanced Multi-Agent AI System for Personalized Investment Strategy**
+**Autonomous Multi-Agent Development System with Planning, Coding & Review Agents**
 
 ```python
-System Architecture:
-├── 🤖 Profile Extraction Agent
-│   └── Analyzes user financial data (income, debt, goals, age)
-├── 📊 Risk Assessment Agent  
-│   └── Calculates risk tolerance and investment capacity
-├── 💡 Strategy Generation Agent
-│   └── Creates personalized allocation strategies
-└── ⚡ Real-time Simulation Engine
-    └── Flask API with FD rate integration
+Multi-Agent Architecture:
+├── 🎯 Planner Agent
+│   └── Breaks down complex problems into executable subtasks
+├── 💻 Coder Agent  
+│   └── Generates production-ready code files with proper structure
+└── 🔍 Reviewer Agent
+    └── Performs automated code review and quality assessment
     
 Key Features:
-✓ Dynamic allocation across SIPs, FDs, gold, emergency funds
-✓ LangGraph orchestration for agent communication
-✓ Groq's LLaMA-3.3 (70B) for intelligent decision-making
-✓ Real-time financial simulations with fallback logic
-```
+✓ Async Runner pipeline for efficient agent orchestration
+✓ Modular Pydantic-based agent architecture
+✓ IDE-like Streamlit interface with real-time visualization
+✓ Automatic plan generation, code execution, and LLM-powered reviews
+✓ Interactive problem input and multi-step workflow management
 
----
-
-### 🤖 Autonomous Agents Engineering Team
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](link)
-![CrewAI](https://img.shields.io/badge/CrewAI-6C63FF?style=flat-square)
-![LLaMA](https://img.shields.io/badge/LLaMA--3.3--70B-000000?style=flat-square)
-![Mistral](https://img.shields.io/badge/Mistral--7B-FF6B6B?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini--2.0-4285F4?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
-
-<!-- <img align="right" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200"> -->
-
-**Multi-LLM Collaborative System Simulating Software Engineering Team**
-
-```python
-Agent Specialization:
-├── Backend Engineer (LLaMA-3.3-70B)
-│   └── API design, database architecture, system optimization
-├── Frontend Engineer (Gemini-2.0-Flash)
-│   └── UI/UX design, responsive interfaces, user workflows
-└── QA Engineer (Mistral-7B)
-    └── Test cases, quality assurance, bug detection
-    
-Automated Deliverables:
-📄 design_doc.md    → System architecture & technical specs
-📄 test_report.md   → Comprehensive QA analysis
-📄 final_report.md  → Project summary & recommendations
-
-Technology Stack:
-✓ CrewAI for agent orchestration
-✓ Multi-LLM integration for specialized tasks
-✓ Docker containerization for deployment
-✓ Automated documentation generation
+Tech Stack:
+OpenAI Agents SDK | Gemini API | Streamlit | AsyncIO | Pydantic
 ```
 
 ---
 
 ### 🏥 AI-Powered Medical Insights Platform
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](link)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 ![RAG](https://img.shields.io/badge/RAG-0467DF?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-
-<!-- <img align="right" src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="200"> -->
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 
 **Semantic Search Engine for Clinical Trial Data using RAG Architecture**
 
 ```python
-RAG Pipeline Architecture:
-├── 📚 Data Ingestion
-│   └── Clinical trial documents processing with PDFMiner
+RAG Pipeline:
+├── 📚 Document Processing
+│   └── Clinical trial ingestion with PDFMiner
 ├── 🔤 Embedding Generation
-│   └── Sentence-BERT (MiniLM) for semantic embeddings
+│   └── Sentence-BERT (MiniLM-L6-v2) for semantic vectors
 ├── 🗃️ Vector Storage
 │   └── FAISS indexing for similarity search
 └── 🔍 Retrieval & Generation
-    └── LangChain + Groq for context-aware responses
+    └── LangChain + Groq LLM for context-aware answers
     
-Search Capabilities:
-✓ Semantic similarity matching (not just keyword)
+Capabilities:
+✓ Semantic similarity matching beyond keyword search
 ✓ Multi-parameter filtering (condition, sponsor, outcomes)
 ✓ Real-time top-10 relevant study retrieval
-✓ Interactive Streamlit interface for exploration
+✓ Interactive Streamlit UI for exploration
 
-ML Models Used:
-• sentence-transformers/all-MiniLM-L6-v2
-• FAISS for vector similarity
-• Groq LLM for answer generation
+Models:
+sentence-transformers/all-MiniLM-L6-v2 | FAISS | Groq LLM
 ```
 
 ---
 
-### 👗 Closette AI - CNN Classification Model
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://shorturl.at/niCXr)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square)
-![CNN](https://img.shields.io/badge/CNN-5C3EE8?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square)
+### 🎙️ Real-Time Multilingual Meeting Assistant
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square)
 
-<!-- <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"> -->
-
-**Deep Learning Classification System with CNN Architecture**
+**End-to-End AI Meeting Assistant with ASR, Summarization & TTS**
 
 ```python
-Model Architecture:
-├── Convolutional Layers
-│   ├── Conv2D (32 filters, 3x3 kernel)
-│   ├── MaxPooling2D (2x2)
-│   ├── Conv2D (64 filters, 3x3 kernel)
-│   └── MaxPooling2D (2x2)
-├── Dense Layers
-│   ├── Flatten
-│   ├── Dense (128 units, ReLU)
-│   └── Dense (num_classes, Softmax)
-└── Optimization
-    ├── Data Augmentation
-    ├── Batch Normalization
-    └── Class Weighting
+Processing Pipeline:
+├── 🎤 Speech-to-Text
+│   └── Whisper for high-accuracy transcription
+├── 📝 Intelligent Summarization
+│   └── Groq LLM for multilingual content synthesis
+├── 🔊 Text-to-Speech
+│   └── gTTS + Pydub for audio generation
+└── 💾 Session Management
+    └── Flask backend with automated cleanup
     
-Performance Optimization:
-✓ Class imbalance handling with weighted loss
-✓ Data augmentation for generalization
-✓ Feature normalization for faster convergence
-✓ Dropout for regularization
+Features:
+✓ Real-time audio transcription with Whisper
+✓ Multilingual summary generation
+✓ Automated TTS output in multiple languages
+✓ Scalable REST APIs with session management
+✓ Efficient file handling and cleanup
 
-Deployment:
-• Streamlit UI for user interaction
-• Flask API for real-time predictions
-• TensorFlow Serving for model inference
+Tech Stack:
+Flask | Groq LLM | Whisper | gTTS | Pydub | Streamlit
 ```
 
 ---
 
-### 📄 Intelligent OCR Text Extraction System
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://shorturl.at/GAHif)
-![Tesseract](https://img.shields.io/badge/Tesseract_OCR-3E8FC7?style=flat-square)
+### 📦 Smart Product Scanning System
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+![OCR](https://img.shields.io/badge/OCR-3E8FC7?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini_Pro-4285F4?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-00ADD8?style=flat-square)
 
-<img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200">
-
-**Computer Vision Pipeline for Document Text Extraction**
+**AI-Powered Real-Time Inventory Management with Computer Vision**
 
 ```python
-OCR Processing Pipeline:
-├── 🖼️ Image Preprocessing
-│   ├── Grayscale conversion
-│   ├── Noise reduction (Gaussian blur)
-│   ├── Adaptive thresholding
-│   └── Morphological operations
-├── 🔍 Text Detection
-│   └── Tesseract OCR engine
-├── 📝 Text Extraction
-│   └── Multi-language support
-└── 💾 Data Structuring
-    ├── JSON formatting
-    └── Pickle serialization
+System Architecture:
+├── 📷 Real-Time Camera Feed
+│   └── OpenCV for image capture and preprocessing
+├── 🔍 Intelligent OCR
+│   └── Google Gemini Pro for accurate data extraction
+├── 💾 Database Management
+│   └── PostgreSQL for inventory storage
+└── ☁️ Cloud Deployment
+    └── Azure for scalable infrastructure
     
-Computer Vision Techniques:
-✓ Image enhancement for better accuracy
-✓ Contour detection for text regions
-✓ Bounding box extraction
-✓ Confidence score filtering
+Impact:
+✓ 90%+ reduction in manual entry errors
+✓ Real-time product detail extraction from camera feeds
+✓ Automated inventory data management
+✓ Seamless Flask backend with efficient retrieval
 
-Output Format:
-{
-  "text": "extracted_content",
-  "confidence": 0.95,
-  "bbox": [x, y, w, h]
-}
+Tech Stack:
+Flask | Gemini Pro | OpenCV | PostgreSQL | Streamlit | Azure
 ```
 
 ---
-
-### 📊 HR Analytics & Workforce Intelligence Dashboard
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://shorturl.at/9k2Xp)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-3776AB?style=flat-square)
-
-<!-- <img align="right" src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="200"> -->
-
-**Predictive Analytics Dashboard for Employee Attrition**
-
-```python
-Analytics Modules:
-├── 📈 Workforce Metrics
-│   ├── Employee count & distribution
-│   ├── Department-wise analysis
-│   └── Role-wise turnover trends
-├── 🎯 Attrition Analysis
-│   ├── Education-based patterns
-│   ├── Age group segmentation
-│   ├── Gender-wise analysis
-│   ├── Salary correlation
-│   └── Tenure impact study
-└── 💡 Predictive Insights
-    ├── Risk scoring
-    └── Retention recommendations
-    
-DAX Calculations:
-Attrition Rate = DIVIDE(
-    COUNT(Employee[Left]),
-    COUNT(Employee[Total])
-)
-
-Visualization Features:
-✓ Interactive filters & slicers
-✓ Drill-down capabilities
-✓ KPI cards for key metrics
-✓ Trend analysis charts
-✓ Heat maps for correlations
-
-Business Impact:
-• Identify high-risk employee segments
-• Proactive retention strategies
-• Cost savings through early intervention
-```
-
----
-
-<div align="center">
 
 ## 🏆 Achievements & Certifications
 
-<img src="https://media.giphy.com/media/3o7absbD7PbTFQa0c8/giphy.gif" width="300">
-
-</div>
-
 <div align="center">
 
-| 🎖️ Achievement | 🗓️ Year | 🔗 Category |
-|---------------|---------|------------|
-| **🌟 Oracle Cloud Infrastructure 2025 Certified GenAI Professional** | 2025 | Generative AI |
-| **🥇 Smart India Hackathon (SIH) Finalist** | 2023 | AI Innovation |
-| **🏅 GIET Innovation Hackathon X 4.0 Finalist** | 2025 | Technology |
-| **💻 GeekForGeeks HackVyuva Finalist** | 2025 | Coding & AI |
+| 🎖️ Certification/Achievement | 📅 Year | 🔗 Link |
+|------------------------------|---------|---------|
+| **Oracle Cloud Infrastructure 2025 Certified GenAI Professional** | 2025 | [Certificate](#) |
+| **Smart India Hackathon (SIH) Finalist** | 2023 | Finalist |
+| **GIET Innovation Hackathon X 4.0 Finalist** | 2025 | Finalist |
+| **GeekForGeeks HackVyuva 2025 Finalist** | 2025 | Finalist |
 
 </div>
 
 ---
 
-<div align="center">
+## 📊 GitHub Statistics
 
-## 📊 GitHub Analytics & Data Science Activity
 <div align="center">
 
 <table>
@@ -494,21 +333,14 @@ Business Impact:
 <img src="https://github-profile-trophy.vercel.app/?username=Anand21J-V&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
 
 </div>
-<div align="center">
+
+---
 
 ## 🎓 Education
 
-<img src="https://media.giphy.com/media/TLayDh2IZOHPW/giphy.gif" width="200">
-
-</div>
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="100%">
-
-### 🎓 O.P. Jindal University, Chhattisgarh, India
+### O.P. Jindal University, Chhattisgarh, India
 
 **Bachelor of Technology in Computer Science and Engineering**
 
@@ -516,63 +348,43 @@ Business Impact:
 
 **Specialization:** Artificial Intelligence | Machine Learning | Data Science
 
-**Relevant Coursework:**
-```
-Deep Learning • Natural Language Processing • Computer Vision
-Machine Learning • Data Structures & Algorithms • Statistics
-Database Management • Cloud Computing • Software Engineering
-```
-
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
 
-<div align="center">
-
-## 📬 Let's Collaborate on AI & Data Science Projects!
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>Open to exciting opportunities in:</b></em>
-
-</div>
+## 📬 Let's Connect & Collaborate!
 
 <div align="center">
 
 ```yaml
-AI Engineering:
-  - Multi-Agent Systems Development
-  - LLM Application Development
-  - Prompt Engineering & Optimization
+Open to opportunities in:
+  AI Engineering:
+    - Multi-Agent Systems Development
+    - LLM Application Architecture
+    - Agentic AI Workflows
   
-Data Science:
-  - Predictive Analytics & ML Models
-  - Deep Learning Solutions
-  - Computer Vision Applications
+  Data Science:
+    - Machine Learning Solutions
+    - Deep Learning Applications
+    - Predictive Analytics
   
-GenAI:
-  - RAG Architecture Implementation
-  - Fine-tuning LLMs
-  - Agent Orchestration Systems
+  GenAI:
+    - RAG System Implementation
+    - Prompt Engineering & Optimization
+    - LLM Integration & Fine-tuning
   
-MLOps:
-  - Model Deployment & Monitoring
-  - CI/CD for ML Pipelines
-  - Containerization & Scaling
+  MLOps:
+    - Model Deployment Pipelines
+    - CI/CD for ML Systems
+    - Containerization & Scaling
 ```
-
-</div>
 
 <br>
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-vishwakarma-32a13b293/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandvishwakarma21j@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anandvishwakarma)
-[![LeetCode](https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/anandvishwakarma)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anand21J-V)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/anandvishwakarma)
 
 <br>
 
@@ -584,7 +396,7 @@ MLOps:
 
 <div align="center">
 
-### 💭 AI Wisdom of the Day
+### 💭 Daily Tech Inspiration
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
@@ -592,10 +404,8 @@ MLOps:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
 
-### ⭐ Star my repositories if you find them interesting!
+### ⭐ Star my repositories if you find them useful!
 
-**Built with 🧠 AI, ❤️ Passion, and lots of ☕ Coffee**
-
-<!-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"> -->
+**Built with 🧠 Intelligence, ❤️ Passion, and ☕ Coffee**
 
 </div>
