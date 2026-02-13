@@ -61,7 +61,7 @@ ai_engineer = AIEngineer()
 
 | 🎓 Academic Excellence | 💼 Industry Impact | 🏆 Recognition |
 |------------------------|-------------------|----------------|
-| **9.38/10 CGPA** | **AI Engineering @ Inflera** | **Oracle GenAI Certified** |
+| **9.38/10 CGPA** | **AI Engineering @ Setius Technologies Pvt. Ltd.** | **Oracle GenAI Certified** |
 | **B.Tech CSE** | **Multi-Agent Systems** | **4x Hackathon Finalist** |
 
 </div>
