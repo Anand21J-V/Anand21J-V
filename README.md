@@ -40,7 +40,9 @@ class AIEngineer:
             "llm_platforms": ["OpenAI API", "Groq API", "Gemini Pro"],
             "rag_systems": ["LlamaIndex", "Vector Databases", "FAISS"],
             "mlops": ["MLflow", "Docker", "DagsHub", "CI/CD"],
-            "evaluation": ["DeepEval", "Confident AI", "LangSmith"]
+            "evaluation": ["DeepEval", "Confident AI", "LangSmith"],
+            "data_engineering": ["FastAPI", "Web Scraping", "Render Deployment"],
+            "semantic_search": ["Visual Similarity", "Custom Re-ranking", "Real-time Ingestion"]
         }
     
     def expertise(self):
@@ -49,7 +51,8 @@ class AIEngineer:
             "generative_ai": "Prompt engineering, RAG, fine-tuning, and LLM integration",
             "nlp": "Semantic search, ASR/TTS, text analysis, embeddings",
             "computer_vision": "OCR, real-time scanning, image processing",
-            "data_science": "ML/DL, predictive analytics, statistical modeling"
+            "data_science": "ML/DL, predictive analytics, statistical modeling",
+            "data_engineering": "Scalable pipelines, web scraping, API-first deployment"
         }
 
 ai_engineer = AIEngineer()
@@ -61,14 +64,39 @@ ai_engineer = AIEngineer()
 
 | 🎓 Academic Excellence | 💼 Industry Impact | 🏆 Recognition |
 |------------------------|-------------------|----------------|
-| **9.38/10 CGPA** | **AI Engineering @ Setius Technologies Pvt. Ltd.** | **Oracle GenAI Certified** |
-| **B.Tech CSE** | **Multi-Agent Systems** | **4x Hackathon Finalist** |
+| **9.38/10 CGPA** | **AI Engineering @ Sentius Technologies Pvt. Ltd.** | **Oracle GenAI Certified** |
+| **B.Tech CSE** | **Multi-Agent Systems & Data Engineering** | **4x Hackathon Finalist** |
 
 </div>
 
 ---
 
 ## 💼 Professional Experience
+
+### 🚀 Sentius Technologies Pvt. Ltd.
+**AI Engineering Intern** | *January 2026 - Present*
+
+```yaml
+Data Engineering & AI Systems:
+  - Data Pipelines: Large-scale bus, train, and flight web scraping pipelines
+    exposed via FastAPI-based APIs, deployed on Render
+  - YouTube Summarization: AI-powered video summarization system using
+    transformer-based models and pipeline orchestration
+  - Visual Semantic Search: Similarity search system with custom re-ranking
+    logic and real-time data ingestion for improved retrieval accuracy
+
+Key Contributions:
+  - Production deployment on Render with scalable FastAPI endpoints
+  - Structured metadata generation stored in CSV for analytics pipelines
+  - Custom re-ranking logic surpassing embedding-only similarity baselines
+  - Transformer-based orchestration for downstream analytics use
+
+Tech Stack:
+  FastAPI | Transformers | Web Scraping | Render | Vector Search
+  Semantic Similarity | Re-ranking | CSV Analytics | Pipeline Orchestration
+```
+
+---
 
 ### 🚀 Inflera Technologies Pty Limited
 **AI Engineering Intern** | *July 2025 - September 2025* | [Certificate](#)
@@ -150,6 +178,7 @@ Tech Stack:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+![SupaBase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
@@ -362,6 +391,11 @@ Open to opportunities in:
     - Multi-Agent Systems Development
     - LLM Application Architecture
     - Agentic AI Workflows
+  
+  Data Engineering:
+    - Scalable Data Pipelines
+    - API-First Deployments
+    - Web Scraping & ETL Systems
   
   Data Science:
     - Machine Learning Solutions
