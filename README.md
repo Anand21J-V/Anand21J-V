@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Autonomous+AI+Systems+that+Think+%F0%9F%A7%A0;Engineering+LLMs+that+Act+%7C+Reason+%7C+Deliver+%E2%9A%A1;Turning+Complex+Problems+into+Elegant+AI+Solutions+%F0%9F%8E%AF;From+RAG+Pipelines+to+Multi-Agent+Orchestration+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&width=860&lines=Building+Autonomous+AI+Systems+that+Think+%F0%9F%A7%A0;Engineering+LLMs+that+Act+%7C+Reason+%7C+Deliver+%E2%9A%A1;Turning+Complex+Problems+into+Elegant+AI+Solutions+%F0%9F%8E%AF;From+RAG+Pipelines+to+Multi-Agent+Orchestration+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br/>
 
@@ -11,6 +11,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anand21J-V)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/anandvishwakarma)
 [![Profile Views](https://komarev.com/ghpvc/?username=Anand21J-V&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Anand21J-V)
+
+<br/>
+
+<!-- ✅ LIVE OPEN TO WORK BADGE — Change "YES" to "NO" and color to "red" when not available -->
+[![Open To Work](https://img.shields.io/badge/OPEN%20TO%20WORK-YES-00d4ff?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117)](mailto:anandvishwakarma21j@gmail.com)
+[![Hire Me](https://img.shields.io/badge/AI%20%2F%20GenAI%20%2F%20Data%20Engineering-Roles%20I'm%20Targeting-6366f1?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117)](mailto:anandvishwakarma21j@gmail.com)
 
 </div>
 
@@ -43,9 +49,94 @@
 
 ---
 
-## ◈ 🚀 IMPACT AT A GLANCE
+## ◈ 💭 MY ENGINEERING PHILOSOPHY
 
-> Numbers that speak louder than words
+> *How I think about building AI systems*
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                 │
+│   "I don't build AI that just responds — I build AI that reasons, plans,        │
+│    and acts. Every system I design starts with one question: what should         │
+│    this agent do when things go wrong? Resilience is not a feature,             │
+│    it's the foundation."                                                         │
+│                                                                                 │
+│    My approach is simple:                                                        │
+│    → Break hard problems into agent-sized subtasks                              │
+│    → Make every pipeline observable and debuggable from day one                 │
+│    → Ship to production early, evaluate rigorously, iterate fast                │
+│    → Prefer composable, modular systems over monolithic complexity              │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## ◈ 🏗️ MULTI-AGENT ARCHITECTURE DEEP DIVE
+
+> How I architect agentic AI systems — a real-world pattern I use across projects
+
+```mermaid
+graph TD
+    U([👤 User Input]) --> O
+
+    subgraph ORCHESTRATION ["🧠 Orchestration Layer  (LangGraph / OpenAI Agents SDK)"]
+        O[Planner Agent] --> |Subtask 1| A
+        O --> |Subtask 2| B
+        O --> |Subtask 3| C
+    end
+
+    subgraph AGENTS ["⚡ Specialist Agents"]
+        A[🔍 Research Agent\nRAG + Vector Search]
+        B[💻 Coder Agent\nCode Generation]
+        C[📊 Analyst Agent\nNL2SQL + Insights]
+    end
+
+    subgraph TOOLS ["🛠️ Tool Layer"]
+        T1[(Vector DB\nFAISS / Pinecone)]
+        T2[🌐 Web Search\nReal-time Data]
+        T3[(SQL Database\nPostgres / MySQL)]
+        T4[📁 File System\nDocs / CSV]
+    end
+
+    subgraph MEMORY ["🗃️ Memory & State"]
+        M1[Short-term\nConversation Buffer]
+        M2[Long-term\nVector Memory]
+    end
+
+    A <--> T1
+    A <--> T2
+    B <--> T4
+    C <--> T3
+
+    A & B & C <--> M1
+    M1 <--> M2
+
+    A --> R
+    B --> R
+    C --> R
+
+    R[🔁 Reviewer Agent\nQuality + Hallucination Check] --> |Pass| OUT
+    R --> |Fail — Retry| O
+
+    OUT([✅ Final Output\nto User])
+
+    style ORCHESTRATION fill:#0d1f3c,stroke:#00d4ff,stroke-width:2px,color:#ffffff
+    style AGENTS fill:#0d2d1f,stroke:#00ff88,stroke-width:2px,color:#ffffff
+    style TOOLS fill:#1f0d2d,stroke:#a78bfa,stroke-width:2px,color:#ffffff
+    style MEMORY fill:#2d1f0d,stroke:#ffaa00,stroke-width:2px,color:#ffffff
+    style U fill:#00d4ff,stroke:#00d4ff,color:#000000
+    style OUT fill:#00ff88,stroke:#00ff88,color:#000000
+    style R fill:#ff6b6b,stroke:#ff6b6b,color:#000000
+```
+
+---
+
+## ◈ 🚀 IMPACT AT A GLANCE
 
 <div align="center">
 
@@ -68,18 +159,18 @@
 <div align="center">
 
 ```
-  2022                2023                 2025 (Jan–Jun)       2025 (Jul–Sep)         2026 →
-   │                   │                       │                     │                   │
-   ▼                   ▼                       ▼                     ▼                   ▼
-┌──────────┐     ┌──────────┐           ┌───────────┐         ┌───────────┐       ┌───────────┐
-│  B.Tech  │     │   SIH    │           │  Oracle   │         │  Inflera  │       │  Sentius  │
-│  CSE     │     │Hackathon │           │  GenAI    │         │  Tech.    │       │  Tech.    │
-│ O.P.     │     │Finalist  │           │  Cert.    │         │  Intern   │       │  Intern   │
-│ Jindal   │     │ National │           │ ☁️ Cloud  │         │ LangGraph │       │ Pipelines │
-│ CGPA:    │     │  Level   │           │  2025     │         │ Agents &  │       │ Semantic  │
-│ 9.38/10  │     │          │           │           │         │ FinOps    │       │ Search AI │
-└──────────┘     └──────────┘           └───────────┘         └───────────┘       └───────────┘
-     🎓               🏆                     🥇                    💼                  💼 🟢
+  2022               2023                2025 (Jan–Jun)      2025 (Jul–Sep)        2026 →
+   │                  │                      │                    │                   │
+   ▼                  ▼                      ▼                    ▼                   ▼
+┌─────────┐     ┌──────────┐          ┌───────────┐        ┌───────────┐       ┌───────────┐
+│ B.Tech  │     │   SIH    │          │  Oracle   │        │  Inflera  │       │  Sentius  │
+│  CSE    │     │Hackathon │          │  GenAI    │        │  Tech.    │       │  Tech.    │
+│ O.P.    │     │Finalist  │          │  Cert.    │        │  Intern   │       │  Intern   │
+│ Jindal  │     │ National │          │ ☁️ Cloud  │        │ LangGraph │       │ Pipelines │
+│  CGPA:  │     │  Level   │          │   2025    │        │ Agents &  │       │ Semantic  │
+│ 9.38/10 │     │          │          │           │        │  FinOps   │       │ Search AI │
+└─────────┘     └──────────┘          └───────────┘        └───────────┘       └───────────┘
+    🎓               🏆                    🥇                   💼                  💼 🟢
 ```
 
 </div>
@@ -100,7 +191,7 @@
 
 ---
 
-## ◈ EXPERIENCE TIMELINE
+## ◈ EXPERIENCE
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&width=100%" width="100%"/>
 
@@ -110,9 +201,9 @@
 
 | Module | What Was Built | Impact |
 |--------|---------------|--------|
-| 🚂 **Data Pipelines** | Large-scale bus · train · flight web scraping, exposed via FastAPI, deployed on Render | Production-ready, scalable APIs |
-| 🎬 **YouTube AI Summarizer** | Transformer-based video summarization with structured metadata output to CSV | Downstream analytics-ready |
-| 🔍 **Visual Semantic Search** | Custom re-ranking logic + real-time data ingestion for retrieval accuracy | Outperforms embedding-only baselines |
+| 🚂 **Data Pipelines** | Large-scale bus · train · flight web scraping via FastAPI, deployed on Render | Production-ready scalable APIs |
+| 🎬 **YouTube AI Summarizer** | Transformer-based video summarization with structured metadata to CSV | Downstream analytics-ready |
+| 🔍 **Visual Semantic Search** | Custom re-ranking logic + real-time data ingestion | Outperforms embedding-only baselines |
 
 `FastAPI` `Transformers` `Web Scraping` `Render` `Semantic Search` `Re-ranking` `Pipeline Orchestration`
 
@@ -124,8 +215,8 @@
 
 | Module | What Was Built | Impact |
 |--------|---------------|--------|
-| 💰 **FinOps Assistant** | LangGraph-powered cost analysis & anomaly detection agent | Automated financial insights |
-| 🗄️ **Schema-Agent** | Intelligent DB schema analysis & optimization agent | Smarter SQL pipelines |
+| 💰 **FinOps Assistant** | LangGraph cost analysis & anomaly detection agent | Automated financial insights |
+| 🗄️ **Schema-Agent** | Intelligent DB schema analysis & optimization | Smarter SQL pipelines |
 | 🔐 **BYOD Workflow** | Secure data ingestion with token-based access control | Enterprise-grade security |
 | 📊 **Viz Agents** | Chart + breakdown + feature-flagged automation agents | Real-time visual reporting |
 
@@ -144,7 +235,7 @@
 ### 🤖 LLM Coding Agent Assistant
 `Multi-Agent` `LLM Automation`&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Code-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Anand21J-V)
 
-> Autonomous dev system with 3 specialized agents working in pipeline
+> Autonomous dev system with 3 specialized agents in pipeline
 
 ```
 🎯 Planner  →  Breaks task into subtasks
@@ -197,7 +288,7 @@
 ### 📦 Smart Product Scanning System
 `Computer Vision` `GenAI`&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Code-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Anand21J-V)
 
-> Real-time AI inventory system cutting manual errors by 90%+
+> Real-time AI inventory system — 90%+ fewer manual errors
 
 ```
 📷 OpenCV   →  Live camera feed
@@ -283,8 +374,6 @@
 
 ## ◈ SKILL PROFICIENCY
 
-> Self-assessed proficiency across core domains
-
 <div align="center">
 
 **🐍 Python & Data Engineering**
@@ -294,22 +383,22 @@
 ![90%](https://geps.dev/progress/90?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
 
 **🗣️ NLP & Transformers**
-![85%](https://geps.dev/progress/85?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
+![89%](https://geps.dev/progress/85?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
 
 **🔬 RAG & Semantic Search**
-![85%](https://geps.dev/progress/85?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
+![88%](https://geps.dev/progress/85?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
 
 **🌐 Backend APIs (FastAPI / Flask)**
-![82%](https://geps.dev/progress/82?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
+![85%](https://geps.dev/progress/82?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
 
 **🧠 Machine Learning & Deep Learning**
-![80%](https://geps.dev/progress/80?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
+![85%](https://geps.dev/progress/80?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
 
 **⚙️ MLOps & Deployment**
-![78%](https://geps.dev/progress/78?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
+![82%](https://geps.dev/progress/78?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
 
 **👁️ Computer Vision & OCR**
-![75%](https://geps.dev/progress/75?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
+![81%](https://geps.dev/progress/75?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
 
 </div>
 
