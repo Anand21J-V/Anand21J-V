@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&width=860&lines=Building+Autonomous+AI+Systems+that+Think+%F0%9F%A7%A0;Engineering+LLMs+that+Act+%7C+Reason+%7C+Deliver+%E2%9A%A1;Turning+Complex+Problems+into+Elegant+AI+Solutions+%F0%9F%8E%AF;From+RAG+Pipelines+to+Multi-Agent+Orchestration+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&width=860&lines=Building+Autonomous+AI+Systems+that+Think+%F0%9F%A7%A0;Engineering+LLMs+that+Act+%7C+Reason+%7C+Deliver+%E2%9A%A1;Turning+Complex+Problems+into+Elegant+AI+Solutions+%F0%9F%8E%AF;From+RAG+Pipelines+to+Multi-Agent+Orchestration+%F0%9F%A4%96;Now+Building+Gen+AI+Interview+Systems+%40+Wiingy+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -17,6 +17,7 @@
 <!-- ✅ LIVE OPEN TO WORK BADGE — Change "YES" to "NO" and color to "red" when not available -->
 [![Open To Work](https://img.shields.io/badge/OPEN%20TO%20WORK-YES-00d4ff?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117)](mailto:anandvishwakarma21j@gmail.com)
 [![Hire Me](https://img.shields.io/badge/AI%20%2F%20GenAI%20%2F%20Data%20Engineering-Roles%20I'm%20Targeting-6366f1?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117)](mailto:anandvishwakarma21j@gmail.com)
+[![Graduating](https://img.shields.io/badge/🎓%20Graduating-May%202026-00ff88?style=for-the-badge&labelColor=0d1117)](mailto:anandvishwakarma21j@gmail.com)
 
 </div>
 
@@ -33,7 +34,8 @@
 ║  Role         →  AI Engineer & GenAI Specialist                             ║
 ║  Focus        →  Multi-Agent Systems | LLMs | Data Engineering              ║
 ║  Institution  →  O.P. Jindal University, CSE  [CGPA: 9.38 / 10.0]          ║
-║  Status       →  AI Engineering Intern @ Sentius Technologies  [ACTIVE 🟢]  ║
+║                  Graduating May 2026                                        ║
+║  Status       →  Gen AI Engineer Intern @ Wiingy Pvt Ltd  [ACTIVE 🟢]       ║
 ║  Certified    →  Oracle Cloud Infrastructure 2025 GenAI Professional        ║
 ║  Hackathons   →  4× Finalist  [SIH · GIET · HackVyuha · more]              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
@@ -43,7 +45,7 @@
 
 | 🤖 Agentic AI | 🔬 GenAI & RAG | 🗣️ NLP & ASR | 👁️ Computer Vision | ⚙️ MLOps |
 |:-:|:-:|:-:|:-:|:-:|
-| LangGraph · CrewAI | RAG · FAISS · LlamaIndex | Whisper · gTTS · BERT | OpenCV · Gemini Pro | MLflow · Docker · CI/CD |
+| LangGraph · CrewAI | RAG · FAISS · ChromaDB | Whisper · gTTS · BERT | OpenCV · Gemini Pro | MLflow · Docker · CI/CD |
 
 </div>
 
@@ -97,8 +99,8 @@ graph TD
     end
 
     subgraph TOOLS ["🛠️ Tool Layer"]
-        T1[(Vector DB\nFAISS / Pinecone)]
-        T2[🌐 Web Search\nReal-time Data]
+        T1[(Vector DB\nFAISS / ChromaDB / Pinecone)]
+        T2[🌐 Web Search\nTavily / Real-time Data]
         T3[(SQL Database\nPostgres / MySQL)]
         T4[📁 File System\nDocs / CSV]
     end
@@ -143,11 +145,13 @@ graph TD
 | ⚡ Metric | 📈 Result |
 |:---------|:---------|
 | 🎯 Inventory Error Reduction | **90%+** via AI-powered OCR & Computer Vision |
+| 📄 Resume Screening Automation | **Bulk OCR + LLM pipeline** turning unstructured resumes into structured JSON |
+| 🎙️ AI Interview Systems | Adaptive, context-aware AI interviewer with guardrails against topic drift |
 | 🔍 Search Retrieval Quality | **Top-10 real-time** clinical study retrieval with vector similarity |
-| 🤖 Agents Shipped to Production | **5+ multi-agent systems** across 2 internships |
+| 🤖 Agents Shipped to Production | **5+ multi-agent systems** across **3 internships** |
 | 🏆 Competitive AI Hackathons | **4× National Finalist** (SIH, GIET, HackVyuha & more) |
 | 📚 Academic Performance | **9.38 / 10.0 CGPA** — Top of cohort |
-| 🌐 APIs Deployed | **Production-grade FastAPI** endpoints live on Render |
+| 🌐 APIs Deployed | **Production-grade FastAPI** endpoints across Wiingy, Sentius & Inflera |
 | 🧩 Frameworks Mastered | **10+ AI/ML frameworks** across GenAI, MLOps & NLP |
 
 </div>
@@ -159,18 +163,19 @@ graph TD
 <div align="center">
 
 ```
-  2022               2023                2025 (Jan–Jun)      2025 (Jul–Sep)        2026 →
-   │                  │                      │                    │                   │
-   ▼                  ▼                      ▼                    ▼                   ▼
-┌─────────┐     ┌──────────┐          ┌───────────┐        ┌───────────┐       ┌───────────┐
-│ B.Tech  │     │   SIH    │          │  Oracle   │        │  Inflera  │       │  Sentius  │
-│  CSE    │     │Hackathon │          │  GenAI    │        │  Tech.    │       │  Tech.    │
-│ O.P.    │     │Finalist  │          │  Cert.    │        │  Intern   │       │  Intern   │
-│ Jindal  │     │ National │          │ ☁️ Cloud  │        │ LangGraph │       │ Pipelines │
-│  CGPA:  │     │  Level   │          │   2025    │        │ Agents &  │       │ Semantic  │
-│ 9.38/10 │     │          │          │           │        │  FinOps   │       │ Search AI │
-└─────────┘     └──────────┘          └───────────┘        └───────────┘       └───────────┘
-    🎓               🏆                    🥇                   💼                  💼 🟢
+  2022        2023          2025 (Jan–Jun)   2025 (Jul–Sep)    2026 (Jan–Apr)    2026 (May →)
+   │            │                  │                │                │                │
+   ▼            ▼                  ▼                ▼                ▼                ▼
+┌────────┐ ┌──────────┐      ┌───────────┐    ┌───────────┐    ┌───────────┐    ┌───────────┐
+│ B.Tech │ │   SIH    │      │  Oracle   │    │  Inflera  │    │  Sentius  │    │  Wiingy   │
+│  CSE   │ │Hackathon │      │  GenAI    │    │  Tech.    │    │  Tech.    │    │  Pvt Ltd  │
+│ O.P.   │ │Finalist  │      │  Cert.    │    │  Intern   │    │  Intern   │    │  Gen AI   │
+│ Jindal │ │ National │      │ ☁️ Cloud  │    │ LangGraph │    │  Resume   │    │  Engineer │
+│  CGPA: │ │  Level   │      │   2025    │    │ Agents &  │    │  Parsing  │    │  Intern — │
+│9.38/10 │ │          │      │           │    │  FinOps   │    │  Pipeline │    │ Interview │
+└────────┘ └──────────┘      └───────────┘    └───────────┘    └───────────┘    │  Platform │
+    🎓          🏆                 🥇               💼               💼          └───────────┘
+                                                                                      💼 🟢
 ```
 
 </div>
@@ -183,9 +188,9 @@ graph TD
 
 | 🚧 Building | 📖 Exploring | 🎯 Next Goal |
 |:-----------:|:------------:|:------------:|
-| Semantic Search with Custom Re-ranking | Agentic RAG & Self-healing Pipelines | Deploy End-to-End Multi-Agent Product |
-| FastAPI Production Data Pipelines | LLM Evaluation Frameworks (DeepEval) | Contribute to Open-Source AI Tooling |
-| Transformer-based Summarization Systems | Advanced Prompt Chaining Strategies | Oracle Cloud Advanced Certification |
+| Adaptive Gen AI Interview Platform (Warm-Up & Skill Assessment agents) | Agent Guardrails for Context Drift & Repetition Control | Ship AI Interview Platform to Full Production Scale |
+| AI-Powered Video Interview Analyzer | LLM Inference Optimization for Latency & Cost | Deploy End-to-End Multi-Agent Products Beyond Internships |
+| FastAPI Production Data Pipelines | LLM Evaluation Frameworks (DeepEval, Confident AI) | Contribute to Open-Source AI Tooling |
 
 </div>
 
@@ -195,32 +200,46 @@ graph TD
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&width=100%" width="100%"/>
 
-### ▸ SENTIUS TECHNOLOGIES PVT. LTD. &nbsp;|&nbsp; `AI Engineering Intern` &nbsp;|&nbsp; 🟢 Jan 2026 — Present
+### ▸ WIINGY PVT LTD &nbsp;|&nbsp; `Gen AI Engineer Intern` &nbsp;|&nbsp; 🟢 May 2026 — Present
 
-> **Building production-grade AI pipelines and intelligent search systems**
+> **Building an adaptive, guardrail-driven AI interviewer platform**
 
 | Module | What Was Built | Impact |
 |--------|---------------|--------|
-| 🚂 **Data Pipelines** | Large-scale bus · train · flight web scraping via FastAPI, deployed on Render | Production-ready scalable APIs |
-| 🎬 **YouTube AI Summarizer** | Transformer-based video summarization with structured metadata to CSV | Downstream analytics-ready |
-| 🔍 **Visual Semantic Search** | Custom re-ranking logic + real-time data ingestion | Outperforms embedding-only baselines |
+| 🎙️ **Adaptive Interviewer Core** | Core AI interviewer framework — Warm-Up & Skill Assessment phases with adaptive questioning | Dynamic, role-aware interview flows |
+| 🛡️ **Agent Guardrails** | Guardrails to prevent repetition, reduce topic drift, keep context-aware conversations | Coherent, on-track candidate interviews |
+| ⚡ **Inference Optimization** | Tuned LLM inference for lower latency via efficient model & infra selection | Reduced operational costs |
+| 🎥 **Video Interview Analyzer** | AI-powered analyzer generating candidate evaluations, insights & summaries | Automated, structured hiring insights |
 
-`FastAPI` `Transformers` `Web Scraping` `Render` `Semantic Search` `Re-ranking` `Pipeline Orchestration`
+`Python` `LangGraph` `FastAPI` `Groq` `Redis` `MySQL` `Prompt Engineering` `Context Engineering` `AI Evaluation`
 
 <br/>
 
-### ▸ INFLERA TECHNOLOGIES PTY LIMITED &nbsp;|&nbsp; `AI Engineering Intern` &nbsp;|&nbsp; ⚪ Jul 2025 — Sep 2025 &nbsp;·&nbsp; [Certificate](#)
+### ▸ SENTIUS TECHNOLOGIES PVT. LTD. &nbsp;|&nbsp; `AI Engineer Intern` &nbsp;|&nbsp; ⚪ Jan 2026 — Apr 2026 &nbsp;·&nbsp; [Certificate](#)
 
-> **Architected multi-agent systems and intelligent workflow automation**
+> **Built a bulk resume intelligence & screening automation pipeline**
 
 | Module | What Was Built | Impact |
 |--------|---------------|--------|
-| 💰 **FinOps Assistant** | LangGraph cost analysis & anomaly detection agent | Automated financial insights |
-| 🗄️ **Schema-Agent** | Intelligent DB schema analysis & optimization | Smarter SQL pipelines |
-| 🔐 **BYOD Workflow** | Secure data ingestion with token-based access control | Enterprise-grade security |
-| 📊 **Viz Agents** | Chart + breakdown + feature-flagged automation agents | Real-time visual reporting |
+| 📄 **Resume Parsing Pipeline** | Scalable pipeline using OCR, LLMs, regex & rule-based logic for bulk resume processing | Fast, high-volume document intelligence |
+| 🧩 **Structured Extraction** | AI system converting unstructured resumes into structured JSON (skills, education, experience) | Clean, downstream-ready candidate data |
+| 🤖 **Screening Automation** | Automated candidate profile generation & screening workflows | Reduced manual effort, faster recruitment |
 
-`LangGraph` `LangSmith` `NL2SQL` `Streamlit` `OpenAI API` `Groq API` `Prompt Engineering` `LLM Evaluation`
+`Python` `OCR` `LLMs` `Regex` `FastAPI` `Prompt Engineering` `JSON Processing` `Document Intelligence`
+
+<br/>
+
+### ▸ INFLERA TECHNOLOGIES PVT. LTD &nbsp;|&nbsp; `AI Engineer Intern` &nbsp;|&nbsp; ⚪ Jul 2025 — Sep 2025 &nbsp;·&nbsp; [Certificate](#)
+
+> **Architected multi-agent FinOps workflows and automated financial insights**
+
+| Module | What Was Built | Impact |
+|--------|---------------|--------|
+| 💰 **FinOps Multi-Agent Workflows** | LangGraph agents for cost analysis, anomaly detection & NL2SQL query generation | Automated financial insights |
+| 📊 **Streamlit + FastAPI Apps** | Role-based access, SQL inspection, LangSmith-based observability | Enterprise-grade, auditable tooling |
+| 📈 **Visualization & Automation Agents** | Optimized prompts & LLM outputs for accurate financial insights | Reliable, real-time reporting |
+
+`LangGraph` `Streamlit` `FastAPI` `MySQL` `Groq` `LangSmith` `Prompt Engineering` `NL2SQL`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&width=100%" width="100%"/>
 
@@ -232,36 +251,36 @@ graph TD
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 LLM Coding Agent Assistant
-`Multi-Agent` `LLM Automation`&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Code-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Anand21J-V)
+### 🏥 Medical Q&A with Hallucination Guardrails
+`Corrective RAG` `LangGraph` `Healthcare AI`&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Code-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Anand21J-V)
 
-> Autonomous dev system with 3 specialized agents in pipeline
+> Corrective RAG medical assistant with hallucination guardrails
 
 ```
-🎯 Planner  →  Breaks task into subtasks
-💻 Coder    →  Generates production files
-🔍 Reviewer →  LLM-powered code review
-⚡ Runner   →  Async orchestration layer
+🩺 Guardrails →  Hallucination detection & correction
+🔄 Adaptive   →  Relevance grading + query rewriting
+🌐 Fallback   →  Tavily web search for low-confidence answers
+🖥️ Frontend   →  HTML/CSS/JS + FastAPI, citation-backed answers
 ```
 
-**Stack:** `OpenAI Agents SDK` `Gemini API` `Streamlit` `AsyncIO` `Pydantic`
+**Stack:** `LangGraph` `Corrective-RAG` `Groq LLM` `ChromaDB` `FastAPI` `Tavily Search` `Pydantic`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 Medical Insights Platform
-`NLP` `RAG` `Semantic Search`&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Code-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Anand21J-V)
+### 🤖 CodeSite-AI — Agentic AI App Builder
+`Multi-Agent` `Agentic AI` `Automation`&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/Code-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Anand21J-V)
 
-> Clinical trial search engine using vector embeddings + RAG
+> Autonomous multi-agent coding system for planning, generation & orchestration
 
 ```
-📚 Ingest   →  PDFMiner clinical data
-🔤 Embed    →  MiniLM-L6-v2 vectors
-🗃️ Index    →  FAISS similarity store
-🔍 Retrieve →  Groq LLM answers
+🎯 Planner  →  Task decomposition & structured state
+💻 Coder    →  Groq-LLM powered code generation
+🗂️ Scaffold →  Dependency-aware project scaffolding
+🎙️ Voice    →  STT input + gTTS voice feedback
 ```
 
-**Stack:** `LangChain` `FAISS` `Sentence-BERT` `Groq` `Streamlit`
+**Stack:** `LangGraph` `Groq LLM` `LangChain` `AsyncIO` `Pydantic` `STT` `gTTS` `HTML/CSS`
 
 </td>
 </tr>
@@ -322,6 +341,10 @@ graph TD
 ![Agents SDK](https://img.shields.io/badge/Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangFlow](https://img.shields.io/badge/LangFlow-FF6B6B?style=for-the-badge&logo=datadog&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily_Search-00B4D8?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![DeepEval](https://img.shields.io/badge/DeepEval-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Confident AI](https://img.shields.io/badge/Confident_AI-6C63FF?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 ### ━━━ 🧠 Machine Learning & Deep Learning ━━━
 
@@ -348,7 +371,6 @@ graph TD
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![DagsHub](https://img.shields.io/badge/DagsHub-2D7FF9?style=for-the-badge&logo=git&logoColor=white)
-![DeepEval](https://img.shields.io/badge/DeepEval-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -357,6 +379,7 @@ graph TD
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
@@ -380,13 +403,16 @@ graph TD
 ![92%](https://geps.dev/progress/92?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
 
 **🤖 Agentic AI & LLMs**
-![90%](https://geps.dev/progress/90?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
+![92%](https://geps.dev/progress/92?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
 
 **🗣️ NLP & Transformers**
 ![89%](https://geps.dev/progress/85?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
 
 **🔬 RAG & Semantic Search**
 ![88%](https://geps.dev/progress/85?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
+
+**🗄️ Document Intelligence & OCR**
+![84%](https://geps.dev/progress/84?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
 
 **🌐 Backend APIs (FastAPI / Flask)**
 ![85%](https://geps.dev/progress/82?dangerColor=00d4ff&warningColor=00d4ff&successColor=00d4ff)
@@ -471,7 +497,7 @@ graph TD
 ╔══════════════════════════════════════════════════════════╗
 ║   🎓  O.P. JINDAL UNIVERSITY  ·  Chhattisgarh, India    ║
 ║   B.Tech · Computer Science & Engineering                ║
-║   July 2022 → Present          CGPA: 9.38 / 10.0  ✦     ║
+║   July 2022 → May 2026          CGPA: 9.38 / 10.0  ✦     ║
 ║   Specialization: AI · Machine Learning · Data Science   ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -484,7 +510,7 @@ graph TD
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Open+to+AI+Engineering+%7C+GenAI+%7C+Data+Engineering+roles;Let's+connect+and+build+the+future+together+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Open+to+AI+Engineering+%7C+GenAI+%7C+Data+Engineering+roles;Graduating+May+2026+%E2%80%94+Open+to+Full-Time+Opportunities;Let's+connect+and+build+the+future+together+%F0%9F%9A%80" />
 
 <br/>
 
